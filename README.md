@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serg-Ale
 - 👀 I’m interested in frontend and backend development, also low level programming, linux, and stuffs like that.
-- 🌱 I’m currently learning FrontEnd (HMLT, CSS and JavaScript), ShellScripting, MySQL.
+- 🌱 I’m currently learning NestJs.
 - 📫 You can reach me through my email: sergioalexandre0716@gmail.com
 
 <!---
