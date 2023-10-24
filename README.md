@@ -4,7 +4,7 @@ Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia e desenvolvimento de
 
 ## 🚀 O Que Eu Amo Fazer
 
-- 💻 Desenvolvimento Full-Stack: Tenho experiência tanto no frontend, criando interfaces interativas e envolventes, quanto no backend, desenvolvendo lógica complexa para aplicativos robustos.
+- 💻 Desenvolvimento Full-Stack: Venho estudando e adquirindo experiência tanto no frontend, criando interfaces interativas e envolventes, quanto no backend, desenvolvendo lógica complexa para aplicativos robustos.
 - 🌐 Explorar Novas Tecnologias: Sempre estou à procura de tecnologias emergentes e inovadoras. Atualmente, estou imerso no universo do **Node.js**, **Nest.js** e outras ferramentas incríveis do ecossistema JavaScript.
 - 📘 Aprender Constantemente: A tecnologia está sempre evoluindo, então estou sempre estudando algo novo. No momento, estou focado em aprofundar meu conhecimento em **Nest.js**.
 
