@@ -1,4 +1,4 @@
-# Olá, eu sou o Sergio Alexandre! 👋
+# Olá, eu sou o Sérgio Alexandre! 👋
 
 Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia e desenvolvimento de software. Desde jovem, fui fascinado pelo mundo da programação, e desde então tenho explorado diferentes áreas, desde frontend e backend até programação de baixo nível e sistemas Linux.
 
