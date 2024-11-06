@@ -2,7 +2,6 @@
 
 Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Tenho experiência no desenvolvimento de sistemas complexos, abrangendo tanto o **frontend**, criando interfaces modernas e interativas, quanto o **backend**, com foco em performance e escalabilidade. Sempre busco aprender e aplicar as melhores práticas de desenvolvimento.
 
----
 
 ## 🚀 Principais Tecnologias
 
@@ -12,13 +11,11 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Tenh
 - **DevOps & Cloud**: AWS (em formação), Docker
 - **Outros**: Git, GitHub, REST APIs, Design Patterns, TDD, Maven, Gradle
 
----
 
 ## 🎓 Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas** - UTFPR (2022 - Previsão de conclusão: 2025)
 
----
 
 ## 🛠️ Experiência Profissional
 
@@ -31,7 +28,6 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Tenh
 - Desenvolvimento de soluções FrontEnd e BackEnd com HTML, CSS, JavaScript, Java, Spring Boot e Node.js.
 - Liderança no projeto de conclusão de estágio, superando desafios de equipe e entregando uma solução funcional.
   
----
 
 ## 🏆 Certificações e Cursos
 
@@ -47,14 +43,12 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Tenh
 ### **React Developer** (DIO)
 - Domínio em HTML, CSS, JavaScript, React.js e Next.js. Experiência com TailwindCSS, Styled-Components, e bibliotecas de componentes.
 
----
 
 ## 🌱 Tecnologias em Aprendizado
 
 - **Angular.js**
 - **AWS Cloud Services**
 
----
 
 ## 💬 Vamos Conectar?
 
@@ -63,7 +57,6 @@ Estou sempre em busca de novas oportunidades para colaborar e expandir meu conhe
 - 📧 **Email**: [sergioalexandre0716@gmail.com](mailto:sergioalexandre0716@gmail.com)
 - 🔗 **LinkedIn**: [Sérgio Alexandre](https://www.linkedin.com/in/serg-alexandre)
 
----
 
 ## ⚡ Um Pouco Mais Sobre Mim
 
