@@ -1,27 +1,73 @@
-# Olá, eu sou o Sérgio Alexandre! 👋
+# 👋 Olá, eu sou o Sérgio Alexandre!
 
-Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia e desenvolvimento de software. Desde jovem, fui fascinado pelo mundo da programação, e desde então tenho explorado diferentes áreas, desde frontend e backend até programação de baixo nível e sistemas Linux.
-
-## 🚀 O Que Eu Amo Fazer
-
-- 💻 **Desenvolvimento Full-Stack:** Venho estudando e adquirindo experiência tanto no frontend, criando interfaces interativas e envolventes, quanto no backend, desenvolvendo lógica complexa para aplicativos robustos.
-- 🌐 **Explorar Novas Tecnologias:** Sempre estou à procura de tecnologias emergentes e inovadoras. Atualmente, estou imerso no universo do **Node.js**, **Nest.js** e outras ferramentas incríveis do ecossistema JavaScript.
-- 📘 **Aprender Constantemente:** A tecnologia está sempre evoluindo, então estou sempre estudando algo novo. No momento, estou focado em aprofundar meu conhecimento em **Nest.js**.
-
-## 🌱 Atualmente Estou Aprendendo
-
-Estou investindo meu tempo em aprimorar minhas habilidades em tecnologias BackEnd, como **Nest.js**, uma estrutura que me permite criar aplicativos Node.js altamente escaláveis e eficientes. Estou fascinado pela arquitetura modular e pelo poderoso sistema de injeção de dependência do Nest.js.
-
-## 📫 Vamos Conectar?
-
-Adoro colaborar em projetos interessantes e conhecer pessoas com paixão pela tecnologia. Você pode entrar em contato comigo por meio do meu [e-mail](mailto:sergioalexandre0716@gmail.com). Estou sempre aberto para novas oportunidades, colaborações e discussões tecnológicas.
-
-## 🚴‍♂️ Passatempos Além do Código
-
-Fora do mundo do desenvolvimento, gosto de me aventurar na cozinha, arrisco compor uma música ou outra de vez em quando (é minha paixão secreta :D). Acredito que um equilíbrio saudável entre trabalho e lazer é essencial para um desenvolvedor criativo e produtivo.
-
-Vamos aprender e criar algo incrível juntos! 😊
+Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Tenho experiência no desenvolvimento de sistemas complexos, abrangendo tanto o **frontend**, criando interfaces modernas e interativas, quanto o **backend**, com foco em performance e escalabilidade. Sempre busco aprender e aplicar as melhores práticas de desenvolvimento.
 
 ---
 
-**Nota:** Este perfil é mais do que apenas um conjunto de códigos. É uma expressão do meu entusiasmo pelo mundo da tecnologia e minha jornada de aprendizado contínuo. Sinta-se à vontade para explorar meus repositórios e compartilhar suas ideias e experiências!
+## 🚀 Principais Tecnologias
+
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js
+- **Backend**: Node.js, Express.js, Nest.js, Java, Spring Boot
+- **Banco de Dados**: MySQL, PostgreSQL, Prisma ORM, TypeORM, Hibernate/JPA
+- **DevOps & Cloud**: AWS (em formação), Docker
+- **Outros**: Git, GitHub, REST APIs, Design Patterns, TDD, Maven, Gradle
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas** - UTFPR (2022 - Previsão de conclusão: 2025)
+
+---
+
+## 🛠️ Experiência Profissional
+
+### Tata Consultancy Services (TCS) – Trainee (Fev 2023 - Nov 2023)
+- Monitoramento de rotinas críticas e suporte à infraestrutura da cadeia produtiva e logística do Carrefour.
+- Uso de ferramentas como JIRA, ControlM e ZABBIX para gestão de processos de alta criticidade.
+- Experiência com Integração Enterprise e operações de suporte em grande escala.
+
+### Tata Consultancy Services (TCS) – Estágio (Jun 2022 - Fev 2023)
+- Desenvolvimento de soluções FrontEnd e BackEnd com HTML, CSS, JavaScript, Java, Spring Boot e Node.js.
+- Liderança no projeto de conclusão de estágio, superando desafios de equipe e entregando uma solução funcional.
+  
+---
+
+## 🏆 Certificações e Cursos
+
+### **Spring Boot 3 & Spring Framework 6** (Udemy)
+- Desenvolvimento de APIs RESTful, gerenciamento de segurança, persistência com Spring Data JPA, e otimizações com AOP.
+
+### **Java Developer** (DIO)
+- Programação orientada a objetos, automação de builds, testes com JUnit e desenvolvimento seguro com Spring Security.
+
+### **TypeScript Full Stack Developer** (DIO)
+- Aplicações completas com Node.js e React, manipulação de estado, autenticação JWT, e ORM com Prisma e TypeORM.
+
+### **React Developer** (DIO)
+- Domínio em HTML, CSS, JavaScript, React.js e Next.js. Experiência com TailwindCSS, Styled-Components, e bibliotecas de componentes.
+
+---
+
+## 🌱 Tecnologias em Aprendizado
+
+- **Angular.js**
+- **AWS Cloud Services**
+
+---
+
+## 💬 Vamos Conectar?
+
+Estou sempre em busca de novas oportunidades para colaborar e expandir meu conhecimento. Vamos criar algo incrível juntos!
+
+- 📧 **Email**: [sergioalexandre0716@gmail.com](mailto:sergioalexandre0716@gmail.com)
+- 🔗 **LinkedIn**: [Sérgio Alexandre](https://www.linkedin.com/in/serg-alexandre)
+
+---
+
+## ⚡ Um Pouco Mais Sobre Mim
+
+- Fora do código, me aventuro na cozinha e tenho uma paixão por música.
+- Valorizo o equilíbrio entre trabalho e lazer, o que me mantém criativo e produtivo.
+
+**Vamos inovar juntos e transformar ideias em soluções reais!**
