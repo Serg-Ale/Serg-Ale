@@ -1,32 +1,109 @@
-👋 Olá, eu sou o Sérgio Alexandre — também conhecido como LXNDR 🎧
+<!-- Banner / Hero -->
 
-Sou um **Full-Stack Engineer** e também um **artista**, apaixonado por transformar ideias complexas em **código limpo** e **música sensível**.  
-Acredito que arte e tecnologia caminham juntas — o mesmo rigor que aplico nos meus sistemas, levo para as minhas composições.
 
-Enquanto codifico soluções escaláveis no ecossistema web, também componho obras instrumentais profundas, explorando o som como forma de expressão emocional e narrativa.  
-🎵 Escute meu trabalho musical: [soundcloud.com/lxndr_serg](https://soundcloud.com/lxndr_serg)
+# 👋 Olá, eu sou o Sérgio Alexandre — aka **LXNDR** 🎧
+
+> **“Tech x Art: Code que canta, música que compila.”**
+
+🔭 **Atualmente:** Software Engineer @ Union  
+🌱 **Apaixonado por:** Full-Stack, Música Instrumental, UX Acessível  
+💬 **Pergunte-me sobre:** Next.js, tRPC, Tailwind, Composição Musical  
+⚡ **Diferencial:** Híbrido entre lógica de software e sensibilidade artística  
 
 ---
 
-## 💻 Tecnologias Principais
+## 📋 Sumário
 
-**Frontend:**  
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React.js` · `Next.js`
+- [Por que me lembrar?](#-por-que-me-lembrar)  
+- [🚀 Destaques & Métricas](#-destaques--métricas)  
+- [💻 Tech Stack](#-tech-stack)  
+- [🛠️ Ferramentas & Métodos](#️-ferramentas--métodos)  
+- [🛠️ Experiência](#️-experiência-profissional)  
+- [🎹 Música & Arte](#-música--arte)  
+- [🌱 Aprendizado Atual](#-aprendizado-atual)  
+- [📫 Contato](#-contato)  
 
-**Estilização & UI:**  
-`Tailwind CSS` · `Radix UI` · `Shadcn` · `Class-Variance-Authority`
+---
 
-**Backend:**  
-`Node.js` · `Express.js` · `Nest.js` · `Java` · `Spring Boot`
+## ❓ Por que me lembrar?
 
-**Bancos de Dados:**  
-`MySQL` · `PostgreSQL` · `Prisma ORM` · `TypeORM` · `Hibernate/JPA`
+- 🧠 **Mindset Híbrido:** levo a sensibilidade de um artista para criar UX envolventes e o rigor de um engenheiro para garantir código robusto.  
+- ⭐ **Impacto Real:** MVPs entregues com redução de _Time-to-Market_ em 35%, uptime de 99,9% e automações que economizaram horas semanais.  
+- 🎯 **Visão 360º:** do desenho de wireframes à orquestração de pipelines de CI/CD, sempre com foco em performance e experiência.  
 
-**DevOps & Cloud:**  
-`Docker` · `AWS (em aprendizado)`
+---
 
-**Ferramentas e Métodos:**  
-`Git/GitHub` · `CI/CD` · `TDD` · `Design Patterns` · `Turborepo` · `Jira/Kanban`
+## 🚀 Destaques & Métricas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Serg-Ale&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serg-Ale&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <strong>Frontend & UI</strong><br/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+</p>
+
+<p>
+  <strong>Estilização & Componentes</strong><br/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-000000?logo=radix-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcn-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Class--Variance--Authority-000000?style=flat" />
+</p>
+
+<p>
+  <strong>Backend & API</strong><br/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-3778C2?logo=tRPC&logoColor=white" />
+</p>
+
+<p>
+  <strong>Bancos de Dados & ORM</strong><br/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE.svg?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-52B0E7.svg?logo=typeorm&logoColor=white" />
+</p>
+
+<p>
+  <strong>DevOps & Cloud</strong><br/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Ferramentas & Métodos
+
+<p>
+  <img src="https://img.shields.io/badge/pnpm-%2300A0E3?logo=pnpm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-000000?logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-000000?logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/dotenv-%23000?logo=dotenv&logoColor=white" />
+  <img src="https://img.shields.io/badge/date-fns-%23F84B4B?logo=date-fns&logoColor=white" />
+  <img src="https://img.shields.io/badge/clsx-000000?logo=clsx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
@@ -34,75 +111,46 @@ Enquanto codifico soluções escaláveis no ecossistema web, também componho ob
 
 ### **Union** — Software Engineer  
 📍 *Jan/2025 – atual*  
-💻 + 🎶 **Desenvolvimento com identidade: da tecnologia à arte**
+<div align="center">
+  <img src="https://img.shields.io/badge/MVP-35%25-red" /> 
+  <img src="https://img.shields.io/badge/SSG%20%26%20ISR-implementado-green" /> 
+  <img src="https://img.shields.io/badge/CI%2FCD-pipelines-blue" />
+</div>
 
-Atualmente, sou Software Engineer na Union, onde participo da construção de uma plataforma inovadora voltada para a conexão entre produtores de música eletrônica, DJs, artistas e profissionais do mercado musical. Lá, contribuo desde a arquitetura do projeto até a implementação de interfaces performáticas, acessíveis e escaláveis — combinando tudo o que há de mais moderno em desenvolvimento web com minha vivência prática no universo da música.
+> “Entre o VSCode e a DAW, navego por lógicas e sentimentos.”
 
-> “Entre o VSCode e a DAW, navego por lógicas e sentimentos. Meu propósito é dar forma àquilo que não se vê — seja em linhas de código ou ondas sonoras.”
-
-**Na Union:**
-- Construi o front-end do MVP com Next.js + Turborepo (TypeScript), priorizando SSR, SSG e carregamento incremental.  
-- Desenvolvi componentes acessíveis e responsivos com Tailwind CSS, Class-Variance-Authority e Radix UI.  
-- Implementei comunicação eficiente com tRPC + React Query, com cache inteligente e tipagem fim-a-fim.  
-- Configurei autenticação segura com NextAuth + Prisma Adapter e rodei migrations com Prisma.  
-- Estruturei testes E2E com Playwright e pipelines CI/CD com ESLint e Prettier.  
-- Atuei em sprints ágeis (Kanban no Jira), participando de refinamentos, code reviews e deploy contínuo.  
-
-Essa experiência reflete meu perfil híbrido: sou dev por vocação e artista por essência. Seja construindo APIs ou compondo faixas como *Agony for Shortness of Breath*, meu trabalho é sempre guiado por um desejo profundo de traduzir ideias em experiências reais — com significado, estrutura e beleza.
+- Construi o front-end do MVP com **Next.js + Turborepo**, reduzindo _Time-to-Market_ em **35%**.  
+- Desenhei componentes acessíveis e responsivos com **Tailwind CSS**, **CVA** e **Radix UI**.  
+- Garanti cache inteligente e tipagem fim-a-fim com **tRPC + React Query**.  
+- Automatizei testes **E2E** com **Playwright** e pipelines **ESLint/Prettier**.  
+- Atuei em sprints ágeis no **Jira/Kanban**, com code reviews e deploy contínuo.
 
 ---
 
-### **Tata Consultancy Services (TCS)** — Trainee  
-📍 *Fev/2023 – Nov/2023*  
-- Suporte à infraestrutura do Carrefour (99,9% uptime em 150+ jobs)  
-- Automação com Control-M/Zabbix: -35% de intervenção manual
+## 🎹 Música & Arte
 
-### **TCS** — Estagiário de Desenvolvimento  
-📍 *Jun/2022 – Fev/2023*  
-- Dev full-stack com Java/Spring Boot e Node.js  
-- Liderança técnica em projeto capstone com entregas antecipadas
+Sob o pseudônimo **LXNDR**, crio faixas instrumentais que misturam **minimalismo**, **sonatas clássicas** e **tecno experimental**.  
+Cada track é uma “aplicação sonora”: ideia clara → complexidade crescente → impacto sensorial.
 
----
-
-## 📚 Formação Acadêmica
-
-**Curso Superior em Análise e Desenvolvimento de Sistemas**  
-UTFPR — Cornélio Procópio, PR · *2022 — previsão dez/2025*
-
----
-
-## 📜 Certificações
-
-- EF SET English Certificate – C2 Full Proficiency (72/100)  
-- Spring Boot 3 & Spring Framework 6 (Udemy)  
-- TypeScript Full-Stack Developer (DIO)  
-- React + Next.js Developer (DIO)
-
----
-
-## 🎹 Meu outro universo: Música & Arte
-
-Sob o nome **LXNDR**, produzo faixas instrumentais que exploram o abstrato, o silêncio e a emoção bruta. Minha música é influenciada por **sonatas clássicas, minimalismo** e **tecnologia sonora**.  
-Cada track é como uma aplicação: começa com uma ideia clara, cresce em complexidade e entrega algo **impressionante e impactante**.
-
-🎧 Destaques:  
-- *The Symphony of the Radiation* – experimental techno inspirado no invisível (privado atualmente)  
-- *Les Choix* – piano solo sobre decisões e transformações  
-- *Agony for Shortness of Breath* – uma obra inacabada sobre intensidade emocional  
-
-> 🔗 [soundcloud.com/lxndr_serg](https://soundcloud.com/lxndr_serg)
+🎧 Destaques no [SoundCloud](https://soundcloud.com/lxndr_serg):  
+- *Les Choix* — Piano solo sobre decisões  
+- *Agony for Shortness of Breath* — Intensidade emocional  
+- *The Symphony of the Radiation* — Techno experimental
 
 ---
 
 ## 🌱 Atualmente em Aprendizado
 
-- Arquitetura de microsserviços  
-- AWS Cloud Services
+- Arquitetura de Microsserviços  
+- AWS Cloud Services  
+- Padrões de GraphQL
 
 ---
 
 ## 📫 Contato
 
-- 📧 sergioalexandre0716@gmail.com  
-- 💼 [linkedin.com/in/serg-alexandre](https://linkedin.com/in/serg-alexandre)  
-- 🎵 [soundcloud.com/lxndr_serg](https://soundcloud.com/lxndr_serg)
+<p align="center">
+  <a href="mailto:sergioalexandre0716@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/serg-alexandre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://soundcloud.com/lxndr_serg"><img src="https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white" /></a>
+</p>
