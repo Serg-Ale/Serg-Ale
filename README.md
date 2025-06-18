@@ -1,66 +1,59 @@
-# 👋 Olá, eu sou o Sérgio Alexandre!
+# 👋 Olá, eu sou o Sérgio Alexandre - LXNDR!
 
-Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Tenho experiência no desenvolvimento de sistemas complexos, abrangendo tanto o **frontend**, criando interfaces modernas e interativas, quanto o **backend**, com foco em performance e escalabilidade. Sempre busco aprender e aplicar as melhores práticas de desenvolvimento.
+Desenvolvedor Full-Stack em formação, apaixonado por tecnologia de ponta e boas práticas de código. Tenho experiência na construção de sistemas escaláveis, com ênfase em **frontend moderno** e **backend robusto**, sempre buscando performance, qualidade e acessibilidade.
 
+## 🚀 Tecnologias Principais
 
-## 🚀 Principais Tecnologias
-
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js
-- **Backend**: Node.js, Express.js, Nest.js, Java, Spring Boot
-- **Banco de Dados**: MySQL, PostgreSQL, Prisma ORM, TypeORM, Hibernate/JPA
-- **DevOps & Cloud**: AWS (em formação), Docker
-- **Outros**: Git, GitHub, REST APIs, Design Patterns, TDD, Maven, Gradle
-
-
-## 🎓 Formação Acadêmica
-
-- **Análise e Desenvolvimento de Sistemas** - UTFPR (2022 - Previsão de conclusão: 2025)
-
+* **Frontend:** HTML · CSS · JavaScript · TypeScript · React.js · Next.js
+* **Estilização:** Tailwind CSS · Styled-Components · Radix UI · Shadcn · Class-Variance-Authority
+* **Backend:** Node.js · Express.js · Nest.js · Java · Spring Boot
+* **Banco de Dados:** MySQL · PostgreSQL · Prisma ORM · TypeORM · Hibernate/JPA
+* **DevOps & Cloud:** Docker · AWS (em aprendizado)
+* **Ferramentas & Metodologias:** Git/GitHub · CI/CD · TDD · Design Patterns · monorepo (Turborepo) · Jira/Kanban
 
 ## 🛠️ Experiência Profissional
 
-### Tata Consultancy Services (TCS) – Trainee (Fev 2023 - Nov 2023)
-- Monitoramento de rotinas críticas e suporte à infraestrutura da cadeia produtiva e logística do Carrefour.
-- Uso de ferramentas como JIRA, ControlM e ZABBIX para gestão de processos de alta criticidade.
-- Experiência com Integração Enterprise e operações de suporte em grande escala.
+**Union** – Estagiário em Engenharia de Software
+*Jan/2025 – atual*
 
-### Tata Consultancy Services (TCS) – Estágio (Jun 2022 - Fev 2023)
-- Desenvolvimento de soluções FrontEnd e BackEnd com HTML, CSS, JavaScript, Java, Spring Boot e Node.js.
-- Liderança no projeto de conclusão de estágio, superando desafios de equipe e entregando uma solução funcional.
-  
+* Reconstrução de MVP em Turborepo + Next.js, reduzindo o First Contentful Paint em 35%
+* Implementação de UIs responsivas com Tailwind e pipelines de testes E2E (Playwright)
+* Adoção de contratos tipados com tRPC + React Query, diminuindo erros de fetch em 40%
 
-## 🏆 Certificações e Cursos
+**Tata Consultancy Services (TCS)** – Trainee
+*Fev/2023 – Nov/2023*
 
-### **Spring Boot 3 & Spring Framework 6** (Udemy)
-- Desenvolvimento de APIs RESTful, gerenciamento de segurança, persistência com Spring Data JPA, e otimizações com AOP.
+* Suporte à infraestrutura do Carrefour, alcançando 99,9% de uptime em 150+ jobs noturnos
+* Automação de processos críticos (Control-M, Zabbix), reduzindo intervenção manual em 35%
 
-### **Java Developer** (DIO)
-- Programação orientada a objetos, automação de builds, testes com JUnit e desenvolvimento seguro com Spring Security.
+**Tata Consultancy Services (TCS)** – Estagiário de Desenvolvimento
+*Jun/2022 – Fev/2023*
 
-### **TypeScript Full Stack Developer** (DIO)
-- Aplicações completas com Node.js e React, manipulação de estado, autenticação JWT, e ORM com Prisma e TypeORM.
+* Desenvolvimento full-stack (Java/Spring Boot, Node.js, MySQL; HTML/CSS/JS) para ferramentas internas
+* Liderança técnica em projeto capstone, entregando APIs RESTful e migrações de banco duas semanas antes do prazo
 
-### **React Developer** (DIO)
-- Domínio em HTML, CSS, JavaScript, React.js e Next.js. Experiência com TailwindCSS, Styled-Components, e bibliotecas de componentes.
+## 🎓 Formação Acadêmica
 
+**Análise e Desenvolvimento de Sistemas**
+UTFPR – Cornélio Procópio, PR · 2022 – previsão 12/2025
 
-## 🌱 Tecnologias em Aprendizado
+## 🏅 Certificações & Cursos
 
-- **Angular.js**
-- **AWS Cloud Services**
+* EF SET English Certificate (C2 – Full Proficiency, 72/100)
+* Spring Boot 3 & Spring Framework 6 (Udemy)
+* Java Developer Program (DIO)
+* TypeScript Full-Stack Developer (DIO)
+* React Developer & Next.js (DIO)
 
+## 🌱 Em Aprendizado
 
-## 💬 Vamos Conectar?
+* **AWS Cloud Services**
 
-Estou sempre em busca de novas oportunidades para colaborar e expandir meu conhecimento. Vamos criar algo incrível juntos!
+## 📫 Contato
 
-- 📧 **Email**: [sergioalexandre0716@gmail.com](mailto:sergioalexandre0716@gmail.com)
-- 🔗 **LinkedIn**: [Sérgio Alexandre](https://www.linkedin.com/in/serg-alexandre)
+* 📧 [sergioalexandre0716@gmail.com](mailto:sergioalexandre0716@gmail.com)
+* 🔗 linkedin.com/in/serg-alexandre
 
+---
 
-## ⚡ Um Pouco Mais Sobre Mim
-
-- Fora do código, me aventuro na cozinha e tenho uma paixão por música.
-- Valorizo o equilíbrio entre trabalho e lazer, o que me mantém criativo e produtivo.
-
-**Vamos inovar juntos e transformar ideias em soluções reais!**
+> “Vamos transformar ideias em soluções reais!”
