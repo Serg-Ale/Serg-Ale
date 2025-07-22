@@ -1,46 +1,48 @@
-<!-- Banner / Hero -->
+# 👋 Prazer, sou Sérgio Alexandre — também conhecido como **LXNDR** 🎧  
+### Desenvolvedor Full Stack com alma de artista & mente de engenheiro
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F701&width=435&lines=Olá!+Eu+sou+o+Sérgio+%F0%9F%98%84;Software+Engineer+%F0%9F%9B%A0%EF%B8%8F;TypeScript%2C++JavaScript+e+Node.Js++%F0%9F%92%A1;NextJs%2C+React%2C+NextJs%2C+Tailwind+%E2%9A%99%EF%B8%8F;Buscando+novos+horizontes+%F0%9F%95%B6%EF%B8%8F;Café%2C+Código%2C+Linux+e+Harmonia+%F0%9F%8E%B5)](https://git.io/typing-svg)
 
-# 👋 Olá, eu sou o Sérgio Alexandre — aka **LXNDR** 🎧
-
-> **“Tech x Art: Code que canta, música que compila.”**
+> Engenheiro de Software focado em desenvolvimento web moderno com TypeScript, React, Next.js, NestJS e banco de dados SQL/NoSQL.  
+> Busco sempre unir performance técnica com experiências significativas para o usuário. Atualmente colaborando em times ágeis, entregando soluções robustas e escaláveis.
 
 🔭 **Atualmente:** Software Engineer @ Union  
 🌱 **Apaixonado por:** Full-Stack, Música Instrumental, UX Acessível  
-💬 **Pergunte-me sobre:** Next.js, tRPC, Tailwind, Composição Musical  
+💬 **Pergunte-me sobre:** Next.js, Nest.Js, Tailwind, UI/UX, Teoria e Composição Musical  
 ⚡ **Diferencial:** Híbrido entre lógica de software e sensibilidade artística  
 
----
 
-## 📋 Sumário
 
-- [Por que me lembrar?](#-por-que-me-lembrar)  
-- [🚀 Destaques & Métricas](#-destaques--métricas)  
-- [💻 Tech Stack](#-tech-stack)  
-- [🛠️ Ferramentas & Métodos](#️-ferramentas--métodos)  
-- [🛠️ Experiência](#️-experiência-profissional)  
-- [🎹 Música & Arte](#-música--arte)  
-- [🌱 Aprendizado Atual](#-aprendizado-atual)  
-- [📫 Contato](#-contato)  
-
----
-
-## ❓ Por que me lembrar?
-
-- 🧠 **Mindset Híbrido:** levo a sensibilidade de um artista para criar UX envolventes e o rigor de um engenheiro para garantir código robusto.  
-- ⭐ **Impacto Real:** MVPs entregues com redução de _Time-to-Market_ em 35%, uptime de 99,9% e automações que economizaram horas semanais.  
-- 🎯 **Visão 360º:** do desenho de wireframes à orquestração de pipelines de CI/CD, sempre com foco em performance e experiência.  
-
----
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,docker,postgres,prisma,mongodb,aws,git)](https://skillicons.dev)
 
 ## 🚀 Destaques & Métricas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serg-Ale&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serg-Ale&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Serg-Ale&show_icons=true&count_private=true&hide_border=true&title_color=B253FF&icon_color=B253FF&text_color=c9d1d9&bg_color=0d1117" alt="Sérgio Alexandre GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serg-Ale&layout=compact&hide_border=true&title_color=B253FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
----
+
+## 📋 Sumário
+
+- [❓ Por que me lembrar?](#-por-que-me-lembrar)  
+- [🚀 Destaques & Métricas](#-destaques--métricas)  
+- [💻 Tech Stack](#-tech-stack)  
+- [🛠️ Ferramentas & Métodos](#️-ferramentas--métodos)  
+- [🎹 Música & Arte](#-música--arte)  
+- [🌱 Aprendizado Atual](#-atual-aprendizado)  
+- [📫 Contato](#-contato)  
+
+
+
+## ❓ Por que me lembrar?
+
+🔁 **Full Stack de verdade:** entrego do front ao back, com domínio real de tecnologias modernas  
+🎨 **UX com sensibilidade artística:** música me ensinou a projetar com emoção e atenção ao detalhe  
+📊 **Foco em resultado:** entregas que reduziram tempo de desenvolvimento e aumentaram confiabilidade  
+
+
+
 
 ## 💻 Tech Stack
 
@@ -84,7 +86,6 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
 </p>
 
----
 
 ## 🛠️ Ferramentas & Métodos
 
@@ -105,27 +106,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 
-## 🛠️ Experiência Profissional
 
-### **Union** — Software Engineer  
-📍 *Jan/2025 – atual*  
-<div align="center">
-  <img src="https://img.shields.io/badge/MVP-35%25-red" /> 
-  <img src="https://img.shields.io/badge/SSG%20%26%20ISR-implementado-green" /> 
-  <img src="https://img.shields.io/badge/CI%2FCD-pipelines-blue" />
-</div>
-
-> “Entre o VSCode e a DAW, navego por lógicas e sentimentos.”
-
-- Construi o front-end do MVP com **Next.js + Turborepo**, reduzindo _Time-to-Market_ em **35%**.  
-- Desenhei componentes acessíveis e responsivos com **Tailwind CSS**, **CVA** e **Radix UI**.  
-- Garanti cache inteligente e tipagem fim-a-fim com **tRPC + React Query**.  
-- Automatizei testes **E2E** com **Playwright** e pipelines **ESLint/Prettier**.  
-- Atuei em sprints ágeis no **Jira/Kanban**, com code reviews e deploy contínuo.
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F701&width=435&lines=Ol%C3%A1!+Eu+sou+o+S%C3%A9rgio+%F0%9F%98%84;Software+Engineer+%F0%9F%9B%A0%EF%B8%8F;TypeScript%2C++JavaScript+e+Node.Js++%F0%9F%92%A1;NextJs%2C+React%2C+NextJs%2C+Tailwind+%E2%9A%99%EF%B8%8F;Buscando+novos+horizontes+%F0%9F%95%B6%EF%B8%8F;Caf%C3%A9%2C+C%C3%B3digo%2C+Linux+e+Harmonia+%F0%9F%8E%B5)](https://git.io/typing-svg)
 
 ## 🎹 Música & Arte
 
@@ -133,19 +116,16 @@ Sob o pseudônimo **LXNDR**, crio faixas instrumentais que misturam **minimalism
 Cada track é uma “aplicação sonora”: ideia clara → complexidade crescente → impacto sensorial.
 
 🎧 Destaques no [SoundCloud](https://soundcloud.com/lxndr_serg):  
-- *Les Choix* — Piano solo sobre decisões  
-- *Agony for Shortness of Breath* — Intensidade emocional  
-- *The Symphony of the Radiation* — Techno experimental
 
----
 
-## 🌱 Atualmente em Aprendizado
+
+## 🌱 Atual Aprendizado
 
 - Arquitetura de Microsserviços  
 - AWS Cloud Services  
-- Padrões de GraphQL
+- Padrões de GraphQL  
+- Core Web Vitals  
 
----
 
 ## 📫 Contato
 
@@ -154,3 +134,9 @@ Cada track é uma “aplicação sonora”: ideia clara → complexidade crescen
   <a href="https://linkedin.com/in/serg-alexandre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://soundcloud.com/lxndr_serg"><img src="https://img.shields.io/badge/SoundCloud-FF5500?logo=soundcloud&logoColor=white" /></a>
 </p>
+
+
+
+💼 **Disponível para novas oportunidades**  
+Entre em contato pelo [LinkedIn](https://linkedin.com/in/serg-alexandre) ou envie um e-mail para: sergioalexandre0716@gmail.com  
+Vamos conversar sobre como posso contribuir no seu time!
