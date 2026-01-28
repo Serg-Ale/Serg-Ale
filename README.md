@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-**Software Engineer** with 2+ years of experience specializing in **frontend development** and full-stack solutions. I build **performant**, **accessible**, and **user-centric** web applications using modern JavaScript/TypeScript ecosystems.
+**Software Engineer** with 3+ years of experience specializing in **frontend development** and full-stack solutions. I build **performant**, **accessible**, and **user-centric** web applications using modern JavaScript/TypeScript ecosystems.
 
 **Current Role:** Software Engineer @ Union Audio *(Audio Tech Startup)*  
 **Focus:** Frontend architecture, UI/UX implementation, advanced animations (GSAP)
