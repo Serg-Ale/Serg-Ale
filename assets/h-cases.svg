@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 72" role="img" aria-label="Case studies">
-<text x="0" y="46" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#FF6B35">01</text>
-<text x="40" y="48" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#EDEDED">Case studies</text>
-<line x1="222" y1="40" x2="1200" y2="40" stroke="#26262B" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" role="img" aria-label="Case studies">
+<rect x="0.5" y="0.5" width="1199" height="63" rx="14" fill="#141417" stroke="#26262B"/>
+<text x="28" y="39" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#FF6B35">01</text>
+<text x="68" y="42" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#EDEDED">Case studies</text>
+<line x1="250" y1="32" x2="1172" y2="32" stroke="#26262B" stroke-width="1"/>
 </svg>
