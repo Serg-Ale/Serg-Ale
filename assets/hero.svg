@@ -16,5 +16,5 @@
 <text font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="56" font-weight="800" fill="#EDEDED" letter-spacing="-1">
 <tspan x="64" y="214">Full-stack engineer</tspan><tspan x="64" y="278">who owns the problem,</tspan><tspan x="64" y="342" fill="url(#bar)">not just the ticket.</tspan></text>
 <text x="64" y="396" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" fill="#8A8A8A">I understand the whole before I write the first line.</text>
-<text x="64" y="432" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="13" fill="#8A8A8A">Londrina, PR · 4+ years · TypeScript · Next.js · NestJS · n8n<tspan fill="#FF6B35">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+<text x="64" y="432" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="13" fill="#8A8A8A">Londrina, PR · 4+ years · TypeScript · React · Next.js · NestJS<tspan fill="#FF6B35">_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
 </g></svg>
