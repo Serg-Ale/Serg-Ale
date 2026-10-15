@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/serg-alexandre/"><img src="./assets/p-linkedin.svg" height="44" alt="LinkedIn" /></a>
   <a href="mailto:sergioalexandre0716@gmail.com"><img src="./assets/p-email.svg" height="44" alt="Email" /></a>
-  <a href="https://lxndr-portifolio.vercel.app"><img src="./assets/p-site.svg" height="44" alt="Portfolio" /></a>
+  <a href="https://saerix.vercel.app/en/dev"><img src="./assets/p-site.svg" height="44" alt="Portfolio" /></a>
 </p>
 
 <br/>
@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://gym-stuff-five.vercel.app"><img width="32%" src="./assets/card-gym.svg" alt="gym-stuff" /></a>
   <a href="https://github.com/Serg-Ale/matrix-rain"><img width="32%" src="./assets/card-rain.svg" alt="matrix-rain" /></a>
-  <a href="https://como-eles-votaram.vercel.app"><img width="32%" src="./assets/card-votaram.svg" alt="Como Eles Votaram" /></a>
+  <a href="https://github.com/Serg-Ale/Como-Eles-Votaram"><img width="32%" src="./assets/card-votaram.svg" alt="Como Eles Votaram" /></a>
 </p>
 
 <p align="center"><sub>Off the keyboard I produce music and DJ as <b>LXNDR</b>: <a href="https://soundcloud.com/lxndr_serg">SoundCloud</a>.</sub></p>
@@ -63,5 +63,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/serg-alexandre/"><img src="./assets/p-linkedin.svg" height="44" alt="LinkedIn" /></a>
   <a href="mailto:sergioalexandre0716@gmail.com"><img src="./assets/p-email.svg" height="44" alt="Email" /></a>
-  <a href="https://lxndr-portifolio.vercel.app"><img src="./assets/p-site.svg" height="44" alt="Portfolio" /></a>
+  <a href="https://saerix.vercel.app/en/dev"><img src="./assets/p-site.svg" height="44" alt="Portfolio" /></a>
 </p>
