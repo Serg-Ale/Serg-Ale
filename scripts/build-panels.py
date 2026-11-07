@@ -45,11 +45,29 @@ NAMES = {
 # ---------------------------------------------------------------- data
 HEADINGS = [
     ("h-cases", "01", "Case studies"),
-    ("h-own", "02", "Built on my own"),
-    ("h-stack", "03", "Stack"),
-    ("h-how", "04", "How I work"),
-    ("h-path", "05", "Path"),
-    ("h-contact", "06", "Let's talk"),
+    ("h-meet", "02", "Meetings to memory"),
+    ("h-desk", "03", "A desktop that follows the wallpaper"),
+    ("h-open", "04", "In the open"),
+    ("h-stack", "05", "Stack"),
+    ("h-how", "06", "How I work"),
+    ("h-path", "07", "Path"),
+    ("h-contact", "08", "Let's talk"),
+]
+
+# Flow of the meetings system: (column label, boxes). A box is (title, text, stack, color).
+FLOW = [
+    ("CAPTURE", [
+        ("Meeting ring", "Floats over any app, records the call and shows a live chat.", "Qt · layer-shell · whisper", ORANGE),
+        ("Watch ring", "Watches a video with me: scenes, my comments and hooks.", "Qt · layer-shell · whisper", ORANGE),
+    ]),
+    ("UNDERSTAND", [
+        ("Huginn", "Transcribes, tells who spoke, cuts chapters and summarizes, with every quote checked against the transcript.",
+         "whisper.cpp · pyannote · Ollama", TEAL),
+    ]),
+    ("REMEMBER", [
+        ("memoria", "Searches every meeting and note by meaning.", "bge-m3 · SQLite · MCP", ORANGE),
+        ("Muninn", "Remembers what I promised and shows one thing at a time.", "Postgres · Redis · Next.js · MCP", ORANGE),
+    ]),
 ]
 
 PROOF = [
@@ -162,6 +180,42 @@ def build_headings():
                f'<line x1="{line_x}" y1="32" x2="1172" y2="32" stroke="{LINE}" stroke-width="1"/></svg>\n')
         with open(os.path.join(ASSETS, name + ".svg"), "w", encoding="utf-8") as f:
             f.write(svg)
+
+
+def build_flow():
+    w, bw, xs = 1200, 300, (30, 450, 870)
+    heights = {1: 190, 2: 130}
+    top, gap = 62, 22
+    body, anchors = [], []
+    for (label, boxes), x in zip(FLOW, xs):
+        body.append(t(x, 34, label, 13, MUTED, MONO, None, 3))
+        n = len(boxes)
+        bh = heights[2] if n == 2 else heights[1]
+        total = 2 * heights[2] + gap
+        y0 = top + (total - (n * bh + (n - 1) * gap)) / 2
+        col = []
+        for i, (title, text_, stack_, color) in enumerate(boxes):
+            y = y0 + i * (bh + gap)
+            body.append(f'<rect x="{x}" y="{y:.1f}" width="{bw}" height="{bh}" rx="14" fill="{DARK}" stroke="{LINE}"/>')
+            body.append(f'<rect x="{x + 16}" y="{y:.1f}" width="{bw - 32}" height="3" rx="1.5" fill="{color}"/>')
+            body.append(t(x + 20, f"{y + 38:.1f}", esc(title), 22, TEXT, SANS, 700))
+            para, _ = paragraph(x + 20, round(y + 66, 1), text_, 15, MUTED, bw - 40, 20)
+            body.append(para)
+            body.append(t(x + 20, f"{y + bh - 16:.1f}", esc(stack_), 12, color, MONO))
+            col.append(y + bh / 2)
+        anchors.append(col)
+    for a, b, x_from in ((anchors[0], anchors[1], xs[0] + bw), (anchors[1], anchors[2], xs[1] + bw)):
+        x_to = x_from + (xs[1] - xs[0] - bw)
+        for ya in a:
+            for yb in b:
+                body.append(f'<path d="M{x_from + 6} {ya:.1f} C{x_from + 56} {ya:.1f} {x_to - 56} {yb:.1f} {x_to - 8} {yb:.1f}" '
+                            f'fill="none" stroke="{LINE}" stroke-width="2"/>')
+        for yb in b:
+            body.append(f'<polygon points="{x_to - 8},{yb - 5:.1f} {x_to},{yb:.1f} {x_to - 8},{yb + 5:.1f}" fill="{MUTED}"/>')
+    h = top + 2 * heights[2] + gap + 28
+    write("flow", w, h, "".join(body),
+          "The meetings system: two rings capture a call or a video; Huginn transcribes, tells who spoke, cuts chapters and "
+          "summarizes; memoria searches everything by meaning and Muninn remembers what I promised.")
 
 
 def build_proof():
@@ -311,7 +365,8 @@ def build_stack():
 if __name__ == "__main__":
     build_headings()
     build_proof()
+    build_flow()
     build_how()
     build_path()
     build_stack()
-    print("built:", ", ".join(n for n, *_ in HEADINGS), "proof, how, trajectory, stack")
+    print("built:", ", ".join(n for n, *_ in HEADINGS), "proof, flow, how, trajectory, stack")

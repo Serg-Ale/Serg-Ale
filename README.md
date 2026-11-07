@@ -42,15 +42,57 @@
 
 <br/>
 
-<img src="./assets/h-own.svg" width="100%" alt="Built on my own" />
+<img src="./assets/h-meet.svg" width="100%" alt="Meetings to memory" />
+
+<p align="center"><sub>Four of my own projects that feed each other: a ring that listens, a studio that understands, a search that remembers and an assistant that follows up. All of them run on my machine.</sub></p>
+
+<img src="./assets/flow.svg" width="100%" alt="The meetings system: two rings capture a call or a video; Huginn transcribes, tells who spoke, cuts chapters and summarizes; memoria searches everything by meaning and Muninn remembers what I promised." />
 
 <p align="center">
-  <a href="https://gym-stuff-five.vercel.app"><img width="32%" src="./assets/card-gym.svg" alt="gym-stuff: a workout app for one hand, between sets. Works offline, syncs later." /></a>
-  <a href="https://github.com/Serg-Ale/matrix-rain"><img width="32%" src="./assets/card-rain.svg" alt="matrix-rain: a multi-mode terminal visualizer, built spec first, in the open." /></a>
-  <a href="https://github.com/Serg-Ale/Como-Eles-Votaram"><img width="32%" src="./assets/card-votaram.svg" alt="Como Eles Votaram: see how politicians voted, simply and clearly." /></a>
+  <img src="./assets/media/anel-chat.jpg" width="49%" alt="The meeting ring floating over the wallpaper with its live chat panel, transcribing a call as it happens." />
+  <img src="./assets/media/anel-assistir.gif" width="49%" alt="The watch ring: a video plays on another monitor while the ring transcribes it live in Portuguese." />
+</p>
+<p align="center">
+  <img src="./assets/media/huginn-det.jpg" width="49%" alt="Huginn showing the summary of a meeting with the decisions and the actions each person took on." />
+  <img src="./assets/media/huginn-cap.jpg" width="49%" alt="Huginn cutting the same meeting into chapters with a title and a summary for each." />
+</p>
+<p align="center">
+  <img src="./assets/media/huginn-tr.jpg" width="49%" alt="Huginn transcript with the speaker and the time of each line." />
+  <img src="./assets/media/muninn-hoje.jpg" width="49%" alt="Muninn Today screen: one focus card, the queue of promises and what I am waiting on from others." />
 </p>
 
-<p align="center"><sub>Off the keyboard I produce music and DJ as <b>SAERIX</b>: <a href="https://soundcloud.com/lxndr_serg">SoundCloud</a> · <a href="https://saerix.vercel.app/en/saerix">site</a>.</sub></p>
+<p align="center"><sub>The Huginn and Muninn screens use demo data: a synthetic meeting about an invented café, processed for real by the pipeline. The watch ring is transcribing a public video. Huginn and Muninn are private repositories for now. The rings are built on top of <a href="https://github.com/peteonrails/hushnote">hushnote</a>, an open source recorder, and Huginn reads its meetings. Speech runs on <a href="https://github.com/ggml-org/whisper.cpp">whisper.cpp</a> and <a href="https://github.com/pyannote/pyannote-audio">pyannote</a>.</sub></p>
+
+<br/>
+
+<img src="./assets/h-desk.svg" width="100%" alt="A desktop that follows the wallpaper" />
+
+<p align="center"><sub><b>Noir</b> is the theme deck of my KDE desktop: an endless arc of cards, one per flavor, each with its own palette. Pick one and the system recolors. <b><a href="https://github.com/Serg-Ale/Thema">Thema</a></b> does the same for the apps: it takes the accent from the wallpaper and hands it to Claude Desktop and Spotify. Noir repaints the rest of the system: window borders, the panel, terminals and Qt apps.</sub></p>
+
+<p align="center">
+  <img src="./assets/media/deck-ciclo.gif" width="100%" alt="The Noir theme deck cycling through five flavors, with the interface color following the center card." />
+</p>
+<p align="center">
+  <img src="./assets/media/noir-ciclo.gif" width="100%" alt="One wallpaper change recoloring Claude Desktop, btop, matrix-rain, the window borders and the top bar at once." />
+</p>
+<p align="center">
+  <img src="./assets/media/noir-atalhos.jpg" width="49%" alt="Noir shortcut map: 213 shortcuts grouped by what you want to do, opened with Super+Ctrl+/." />
+  <img src="./assets/media/noir-vermelho.jpg" width="49%" alt="Claude Desktop, btop and matrix-rain tinted by a red wallpaper." />
+</p>
+
+<p align="center"><sub>Noir is a private repository for now. The Claude Desktop module of Thema is unofficial: it is not made, endorsed or supported by Anthropic, and I do not use it with a work account.</sub></p>
+
+<br/>
+
+<img src="./assets/h-open.svg" width="100%" alt="In the open" />
+
+<p align="center">
+  <a href="https://github.com/Serg-Ale/matrix-rain"><img src="./assets/media/mr-pulse.gif" width="49%" alt="matrix-rain in Pulse mode: dense concentric rings of Katakana." /></a>
+  <a href="https://github.com/Serg-Ale/djscope"><img src="./assets/media/dj-overview.jpg" width="49%" alt="djscope: a live audio analysis panel for DJs with a 3-band waveform, spectrum, Camelot key wheel and loudness meters." /></a>
+</p>
+<p align="center"><sub><a href="https://github.com/Serg-Ale/matrix-rain"><b>matrix-rain</b></a>: a terminal visualizer with Rain, Pulse and Network modes, 11 themes and a video wall across terminals. Built spec first, in the open. &nbsp;·&nbsp; <a href="https://github.com/Serg-Ale/djscope"><b>djscope</b></a>: live audio analysis for DJs on Linux, with a CDJ-style waveform, LUFS, BPM and Camelot key. Qt and PySide6.</sub></p>
+
+<p align="center"><sub>Also live: <a href="https://gym-stuff-five.vercel.app">gym-stuff</a>, a workout app for one hand, offline first. Off the keyboard I produce music and DJ as <b>SAERIX</b>: <a href="https://soundcloud.com/lxndr_serg">SoundCloud</a> · <a href="https://saerix.vercel.app/en/saerix">site</a>.</sub></p>
 
 <br/>
 
